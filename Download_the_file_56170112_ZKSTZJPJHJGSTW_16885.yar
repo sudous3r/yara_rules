@@ -1,6 +1,6 @@
 /*
    YARA Rule Set
-   Author: sud0us3er
+   Author: sudous3er
    Date: 2023-12-13
    Identifier: sample
    Reference: https://github.com/Neo23x0/yarGen
@@ -12,7 +12,7 @@ rule Download_the_file_____56170112_ZKSTZJPJHJGSTW_16885_ {
    meta:
       description = "phising mail    #56170112#ZKSTZJPJHJGSTW#16885 .html"
       threat_level = 3
-      author = "sud0us3er"
+      author = "sudous3er"
       reference = "https://github.com/Neo23x0/yarGen"
       date = "2023-12-13"
       hash1 = "db857bb4c6f846d3495fa5a26b7bc9174f69f4ebc93ee384d6f1f873baa6617e"
