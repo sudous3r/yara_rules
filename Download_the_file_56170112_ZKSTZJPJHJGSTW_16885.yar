@@ -8,7 +8,7 @@
 
 /* Rule Set ----------------------------------------------------------------- */
 
-rule Download_the_file_____56170112_ZKSTZJPJHJGSTW_16885_ {
+rule phishing_from_viki.baltov@abv.bg {
    meta:
       description = "phising mail    #56170112#ZKSTZJPJHJGSTW#16885 .html"
       threat_level = 3
